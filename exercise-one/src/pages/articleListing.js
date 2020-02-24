@@ -9,7 +9,7 @@ function ArticleListing() {
   return (
     <div class="articleListing">
       <header>
-        <h1>Article</h1>
+        <h1>Articles</h1>
       </header>
       <main>
         {Data.map((article, i) => (
